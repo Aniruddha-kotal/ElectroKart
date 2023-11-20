@@ -25,3 +25,4 @@ hs_err_pid*
 .vscode
 k8s
 .project
+CloudGateway/src/main/resources/.env
