@@ -1,6 +1,6 @@
 # ElectroKart Ecommerce Application
 
-![ElectroKart Logo](/path/to/logo.png) <!-- Add your logo if you have one -->
+![ElectroKart Logo](/Electrokart.png) <!-- Add your logo if you have one -->
 
 ## Overview
 
