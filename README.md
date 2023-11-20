@@ -71,7 +71,7 @@ For more detailed instructions and configurations, refer to the documentation in
 
 ## Contributing
 
-You can connect with me on LinkedIn [https://www.linkedin.com/in/aniruddha-kotal/](Aniruddha Kotal)
+You can connect with me on LinkedIn [https://www.linkedin.com/in/aniruddha-kotal/] (Aniruddha Kotal)
 
 
 ## Acknowledgments
