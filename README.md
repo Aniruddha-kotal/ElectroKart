@@ -1,6 +1,6 @@
 # ElectroKart Ecommerce Application
 
-![ElectroKart Logo](/ElectroKart.png) <!-- Add your logo if you have one -->
+<img src="/ElectroKart.png" alt="ElectroKart Logo" width="200">
 
 ## Overview
 
